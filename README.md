@@ -1,5 +1,5 @@
 # Yangzte
-AGCM experiments:
+AGCM experiments results of June and July 2020:
 
 850hPa_wind composite: U850_copmposite.nc
 
